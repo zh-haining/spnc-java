@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+**.iml
+.target
+target/
+*/target/*
+.settings/
+.classpath
+.factorypath
+.project
+### macOS template
+.DS_Store
+/.project
+**/resources/git.properties
+
